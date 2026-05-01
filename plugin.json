@@ -1,0 +1,19 @@
+{
+  "name": "Quest Plugin",
+  "author": "Adrian",
+  "version": "1.0.0",
+  "minVersion": "1.0.0",
+  "supportedVersion": "1.132.0",
+  "basePackage": "eu.adrianplugin.quest",
+  "discord": "https://discord.gg/xMDGcERrZY",
+  "donation": "https://ko-fi.com/adrian33618",
+  "download": "https://github.com/ADYADY222/QuestPlugin/releases/latest/download/QuestPlugin.jar",
+  "update": "https://raw.githubusercontent.com/ADYADY222/QuestPlugin/main/plugin.json",
+  "features": [
+    "eu.adrianplugin.quest.QuestModule",
+    "eu.adrianplugin.quest.QuestBackgroundBehavior",
+    "eu.adrianplugin.quest.QuestRocketLauncherFeature",
+    "eu.adrianplugin.quest.QuestModule$QuestPetGearSelector",
+    "eu.adrianplugin.quest.QuestHeatMapDrawer"
+  ]
+}
