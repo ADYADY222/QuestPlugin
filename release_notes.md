@@ -20,20 +20,12 @@ This plugin automates your daily quests in DarkOrbit — from killing NPCs to co
 
 ### 💎 Premium Features (Donor Only)
 
-> Premium features are unlocked via Discord role verification. See installation instructions below.
-
 - 🚀 **Rocket Auto Switch \[DONOR\]** — Automatically switches rocket types based on the current target (NPC or player) for maximum combat efficiency.
 - 🤖 **Auto PET Gear \[DONOR\]** — Switches PET loadout dynamically:
   - Combat gear during NPC kill quests.
   - Looter gear during collect and cargo quests.
   - Enemy Locator mode with automatic ping tracking.
 - 🥷 **Stealth \[DONOR\]** — Adds premium stealth behavior during route travel, coordinate quests, hotspot search, and random search movement.
-
----
-
-### 🔒 Premium Verification
-
-Premium modules are protected and verified in real-time. Access is granted automatically after donating via **Ko-fi** — the Discord role is assigned automatically, and the plugin verifies it in real-time. No manual key entry needed.
 
 ---
 
