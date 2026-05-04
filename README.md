@@ -2,7 +2,7 @@
 
 Welcome to the **Quest Plugin** for DarkBot!
 
-This plugin automates your daily quests in DarkOrbit — from killing NPCs to collecting resources.
+This plugin automates your daily quests in DarkOrbit - from killing NPCs to collecting resources.
 
 ## Download & Installation
 
@@ -16,8 +16,8 @@ Please go to the [Releases](https://github.com/ADYADY222/QuestPlugin/releases/la
 
 ## Premium Features (Donor Only)
 
-Premium features (`Rocket Auto Switch`, `Auto PET Gear`, `Stealth`) are unlocked automatically after donating via Ko-fi. Once your donation is processed, the Discord role is assigned automatically and the plugin verifies it in real-time — no manual steps needed.
+Premium features (`Rocket Auto Switch`, `Auto PET Gear`, `Stealth`) are unlocked automatically after donating via Ko-fi. Once your donation is processed, the Discord role is assigned automatically and the plugin verifies it in real-time - no manual steps needed.
 
 ## Links
-* [Discord Server](https://discord.gg/xMDGcERrZY)
+* [Discord Server](https://discord.gg/WMkbT3a5v9)
 * [Ko-fi / Donation](https://ko-fi.com/adrian33618)
